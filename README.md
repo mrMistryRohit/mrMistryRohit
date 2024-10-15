@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrMistryRohit
+- 👋 Hi, I’m @Rohit
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on ...
